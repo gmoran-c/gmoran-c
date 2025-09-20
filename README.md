@@ -27,7 +27,7 @@ I am a computer engineering student seeking opportunities to grow my skills and 
 </h4>
 
 <span>
-  <a href="https://archlinux.org/">
+  <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
@@ -40,12 +40,18 @@ I am a computer engineering student seeking opportunities to grow my skills and 
 </h4>
 
 <span>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Qubes%20OS-3874D4?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"> 
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> 
+  <a href="https://www.debian.org/">
+    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"> 
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> 
+  <a href="https://www.qubes-os.org/">
+    <img src="https://img.shields.io/badge/Qubes%20OS-3874D4?style=for-the-badge&logoColor=white">
+  <a href="https://tails.net/">
+    <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"> 
+  <a href="https://www.linux.org/pages/download/">
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"> 
   
 </span>
 
@@ -54,8 +60,10 @@ I am a computer engineering student seeking opportunities to grow my skills and 
 </h4>
 
 <span>
-  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <a href="https://www.torproject.org/">
+    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white">
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </span>
   
  </div>
