@@ -5,7 +5,7 @@
 I am a computer engineering student seeking opportunities to grow my skills and continuously expand my knowledge. Currently, I’m focusing on blue‑team activities and automating security workflows. In the coming years I plan to deepen my expertise in incident‑response orchestration, earn industry‑recognized certifications such as CompTIA Security+ and CompTIA CySA+
 
 * **I’m interested in cybersecurity, open‑source projects, and building secure systems**
-- :books: I’m currently learning: C, C++, assembly RISC-V and Cybersecurity fundamentals
+- :books: I’m currently learning: C, C++, MySQL, assembly RISC-V and Cybersecurity fundamentals
 - :globe_with_meridians: Eager to collaborate on open‑source projects improving security tools, automation, or privacy.
 - :white_check_mark: Feel free to ask me anything: coding questions, security concepts, or contribution ideas.
 
@@ -32,6 +32,7 @@ I am a computer engineering student seeking opportunities to grow my skills and 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
   <img src="https://img.shields.io/badge/RISC--V-0055AA?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h4> 
