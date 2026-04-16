@@ -1,6 +1,11 @@
 <h1 align="center"> 
   Hi, I'm Gabriel Morán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 </h1> 
+<p align="center">
+  <a href="https://gmoran-c.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-gmoran--c.github.io-0055AA?style=for-the-badge&logoColor=white">
+  </a>
+</p>
 
 I am a computer engineering student seeking opportunities to grow my skills and continuously expand my knowledge. Currently, I’m focusing on blue‑team activities and automating security workflows. In the coming years I plan to deepen my expertise in incident‑response orchestration, earn industry‑recognized certifications such as CompTIA Security+ and CompTIA CySA+
 
