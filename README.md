@@ -8,9 +8,7 @@
   </a>
 </p>
 
----
-
-### Identity
+## About Me
 I am a computer engineering student seeking opportunities to grow my skills and continuously expand my knowledge. Currently, I’m focusing on blue-team activities and automating security workflows.
 
 * **Interests:** Cybersecurity, open-source projects, and building secure systems.
@@ -18,7 +16,6 @@ I am a computer engineering student seeking opportunities to grow my skills and 
 * **Open to Collaboration:** Security tools, automation, or privacy projects.
 * **Feel free to ask me anything:** Coding, security concepts, or contribution ideas.
 
----
 
 ## Contact
 <p align="left">
